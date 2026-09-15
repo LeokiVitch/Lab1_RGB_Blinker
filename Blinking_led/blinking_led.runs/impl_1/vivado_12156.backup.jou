@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2023.2 (64-bit)
+# SW Build 4029153 on Fri Oct 13 20:14:34 MDT 2023
+# IP Build 4028589 on Sat Oct 14 00:45:43 MDT 2023
+# SharedData Build 4025554 on Tue Oct 10 17:18:54 MDT 2023
+# Start of session at: Mon Sep 14 12:07:42 2026
+# Process ID: 12156
+# Current directory: C:/MyVivadoHw/ProjectCode/blinking_led/blinking_led.runs/impl_1
+# Command line: vivado.exe -log rgb_led_top.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source rgb_led_top.tcl -notrace
+# Log file: C:/MyVivadoHw/ProjectCode/blinking_led/blinking_led.runs/impl_1/rgb_led_top.vdi
+# Journal file: C:/MyVivadoHw/ProjectCode/blinking_led/blinking_led.runs/impl_1\vivado.jou
+# Running On: Leoki, OS: Windows, CPU Frequency: 3110 MHz, CPU Physical cores: 8, Host memory: 16693 MB
+#-----------------------------------------------------------
+source rgb_led_top.tcl -notrace

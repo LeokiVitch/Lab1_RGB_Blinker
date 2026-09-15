@@ -1,0 +1,4 @@
+ERROR: Exception caught trying to open file C:\MyVivadoHw\ProjectCode\Blinking_led_procedure\Blinking_led_procedure.runs\impl_1/runme.log
+	Exception name: Error
+	Exception error code: 70
+	Exception message: Permission denied
