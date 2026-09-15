@@ -1,4 +1,4 @@
-# Lab1_RGB_Blinker
+<h3># Lab1_RGB_Blinker </h3>
 <br>
 #IMPORTANT NOTE <br>
 #I ended up making both the procedure and lab in the same project originally. <br>
@@ -8,10 +8,10 @@
 <br>
 <br> 
 
-#<h2>RGB with test WAVEFORM </h2> <br> 
+<h2>#RGB with test WAVEFORM </h2> <br>
 <img width="939" height="500" alt="ECE520Lab1rgbWaveform" src="https://github.com/user-attachments/assets/ed5f393a-5418-4b2e-89c3-30aac4baf0b9" />
 
 <br>
 
-#Blinkning led 
+<h2>#Blinkning led </h2> <br>
 <img width="939" height="500" alt="Screenshot 2026-09-14 121452" src="https://github.com/user-attachments/assets/0df6f333-774b-4feb-9b1b-1bd74ab4179f" />
