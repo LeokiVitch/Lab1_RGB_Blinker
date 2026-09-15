@@ -5,7 +5,10 @@
 #THEREFORE "Blinking_led_procedure" is the procedure <br>
 #folder "Blinking_led" is the blinking RGB lab <br> 
 
-#RGB with test WAVEFORM <br>
+<br>
+<br> 
+
+#RGB with test WAVEFORM <br> 
 <img width="939" height="500" alt="ECE520Lab1rgbWaveform" src="https://github.com/user-attachments/assets/ed5f393a-5418-4b2e-89c3-30aac4baf0b9" />
 
 #Blinkning led 
